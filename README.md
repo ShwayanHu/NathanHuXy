@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xueyan-Hu (Shwayan Hu)
 - 💞️ Chances of collaboration is highly desired.
-- 📫 How to reach me? Email: xueyanhu1231@163.com
+- 📫 How to reach me? Email: xueyanhu1231@gmail.com
 
 <!---
 NathanHuXy/NathanHuXy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
